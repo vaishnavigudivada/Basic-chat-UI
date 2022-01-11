@@ -1,0 +1,7 @@
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+
+export const ADD_TO_CHAT="ADD_TO_CHAT";
+export const GET_LATEST_CHATS="GET_LATEST_CHATS";
+export const GET_CHAT_HISTORY="GET_CHAT_HISTORY";
+export const REMOVE_CHAT="REMOVE_CHAT";
+
